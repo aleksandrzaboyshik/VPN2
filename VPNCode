@@ -1,17 +1,18 @@
 #profile-title: Забойщик VPN
 #subscription-userinfo:expire=7966058640;total=10995116277760; used=0
 #url-web-page-url: https://t.me/zaboyshikvpn
-#announce: Поддержка: @alexandr_zaboyshik  #ЗаСвободныйИнтернет! [Проверяйте пинг перед подключением]
+#announce: Поддержка: @alexandr_zaboyshik  #ЗаСвободныйИнтернет! [Проверяйте пинг перед подключением!]
 
 vless://0e56d225-9b6a-4d2a-a237-417869035db9@x2.outlinevpn.cc:34373?type=tcp&security=reality&pbk=2fNyXHxRA4rWfeXTRH_f9hqxTpH5TCJwzvvrNFQx9h0&fp=chrome&sni=google.com&sid=652e51b44371e168&spx=%2F&flow=xtls-rprx-vision#🇳🇱Нидерланды
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Ry9YNDZ4bVZua2VCMXhEUHN0U2U5VFMyTURFNkwvQ2ZBclJ1akcwTmdFOD06ZWtab2RVaHRXbVIwV1RWRVVEYzVjbXRXUkdkaldVMUJhM2hoTTFoNmVWUmpaMVpZUTFwSk5HaG9kV1E9@x1.outlinevpn.cc:45440?type=tcp#🇳🇱 Нидерланды [2]
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@152.89.244.33:443?security=tls&flow=xtls-rprx-vision-udp443&sni=finl9.keepsecured.net&fp=chrome&alpn=http/1.1%2Ch2#🇩🇪 Германия
+vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@152.89.244.33:443?security=tls&flow=xtls-rprx-vision-udp443&sni=finl9.keepsecured.net&fp=chrome&alpn=http/1.1%2Ch2#🇩🇪 Германия [Самый бесперебойный]
 vless://60f08b02-9a8e-4dbb-8ab2-0f631a01232c@yes.normbot.ru:443?security=reality&encryption=none&alpn=&fp=qq&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&sid=6467aa9c086620dc&sni=yes.normbot.ru&flow=xtls-rprx-vision&type=tcp&headerType=none#🇪🇪 Эстония [ИГРОВОЙ]
+vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@ukos.ksnodes.net:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome&sni=ukos.ksnodes.net&alpn=h2%2Chttp/1.1# Остров Эпштейна
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJY0hodWNJV2lKaGZsZUthQjduX2F3@141.98.17.63:65443#🇹🇭 Тайланд
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmMWJaelp3QzRPN2Y5Z25WT096QzlJ@150.95.24.86:443#🇯🇵 Япония
 vless://fd2bfdd2-68eb-49b0-98ad-ed82f901edde@62.60.233.178:52000?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=4Fs4rORU_bK5Nwy9qvmVw3dAxS91bIG5cQYOmXl7zDA&sid=3d67b0666a5e09a0&sni=ozon.ru#🇹🇷 Турция
+ss://YWVzLTI1Ni1nY206N0dhUUlNNHE4NHNMbmhxUUo4bUxxYjBLYmREbUJXeEtQYVhhNTl0Rlh0Zw@165.22.111.31:8388#🇸🇬 Сингапур
 ss://YWVzLTI1Ni1nY206N2UxZGQ0YzU1YmY4NWRhNQ@103.136.150.207:40210#🇭🇰Гонконг
+ss://YWVzLTI1Ni1nY206N2UxZGQ0YzU1YmY4NWRhNQ@103.136.150.207:40210#🇭🇰 Гонконг [2]
+vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@ind8.keepsecured.net:8443?type=grpc&security=reality&encryption=none&pbk=J07yFEBPsic7-hLTS2KSxVqI7v4gpfkG6_a2cGKNVFk&sid=10f786a2491b2cd5&sni=cdn.kwork.com&mode=gun&serviceName=buysec.ru&authority=#🇮🇳 Индия
 vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@109.120.188.50:993?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=mAu8QDi3pbmMCFg9kKC-ZBIHdtnXeCuZt3VnAw6vlH4&sid=ad7dab462a323acb&sni=max.ru&alpn=http/1.1#🇷🇺 Россия (БС)
-vless://0219a17d-5489-4ffe-b90b-3236646787a1@217.168.240.172:3443?encryption=none&type=xhttp&security=reality&path=%2F&mode=auto&extra=null&fp=chrome&sni=max.ru&pbk=XqH-gNEL9eJfr1pglaI8WU3OvE654_5duXYBS35UXlM&sid=abcdef0123456789#🇷🇺 Россия [2] (БС)
-vless://0219a17d-5489-4ffe-b90b-3236646787a1@217.168.240.172:3443?encryption=none&type=xhttp&security=reality&path=%2F&mode=auto&extra=null&fp=chrome&sni=max.ru&pbk=XqH-gNEL9eJfr1pglaI8WU3OvE654_5duXYBS35UXlM&sid=ab#🇷🇺 Россия [3] (БС)
-vless://cb970660-404e-4c07-ac92-d1fd8efbb982@217.168.240.172:3443?encryption=none&type=xhttp&security=reality&path=%2F&mode=auto&extra=null&fp=chrome&sni=max.ru&pbk=XqH-gNEL9eJfr1pglaI8WU3OvE654_5duXYBS35UXlM&sid=ab#🇷🇺 Россия [4] (БС)
-vless://cb970660-404e-4c07-ac92-d1fd8efbb982@217.168.240.172:3443?encryption=none&type=xhttp&security=reality&path=%2F&mode=auto&extra=null&fp=chrome&sni=max.ru&pbk=XqH-gNEL9eJfr1pglaI8WU3OvE654_5duXYBS35UXlM&sid=abcdef0123456789#🇷🇺 Россия [5] (БС)
