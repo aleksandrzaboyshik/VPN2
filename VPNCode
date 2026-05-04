@@ -3,16 +3,24 @@
 #url-web-page-url: https://t.me/zaboyshikvpn
 #announce: Поддержка: @alexandr_zaboyshik  #ЗаСвободныйИнтернет! [Проверяйте пинг перед подключением!]
 
-vless://0e56d225-9b6a-4d2a-a237-417869035db9@x2.outlinevpn.cc:34373?type=tcp&security=reality&pbk=2fNyXHxRA4rWfeXTRH_f9hqxTpH5TCJwzvvrNFQx9h0&fp=chrome&sni=google.com&sid=652e51b44371e168&spx=%2F&flow=xtls-rprx-vision#🇳🇱Нидерланды
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Ry9YNDZ4bVZua2VCMXhEUHN0U2U5VFMyTURFNkwvQ2ZBclJ1akcwTmdFOD06ZWtab2RVaHRXbVIwV1RWRVVEYzVjbXRXUkdkaldVMUJhM2hoTTFoNmVWUmpaMVpZUTFwSk5HaG9kV1E9@x1.outlinevpn.cc:45440?type=tcp#🇳🇱 Нидерланды [2]
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@152.89.244.33:443?security=tls&flow=xtls-rprx-vision-udp443&sni=finl9.keepsecured.net&fp=chrome&alpn=http/1.1%2Ch2#🇩🇪 Германия [Самый бесперебойный]
-vless://60f08b02-9a8e-4dbb-8ab2-0f631a01232c@yes.normbot.ru:443?security=reality&encryption=none&alpn=&fp=qq&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&sid=6467aa9c086620dc&sni=yes.normbot.ru&flow=xtls-rprx-vision&type=tcp&headerType=none#🇪🇪 Эстония [ИГРОВОЙ]
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@ukos.ksnodes.net:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome&sni=ukos.ksnodes.net&alpn=h2%2Chttp/1.1# Остров Эпштейна
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJY0hodWNJV2lKaGZsZUthQjduX2F3@141.98.17.63:65443#🇹🇭 Тайланд
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmMWJaelp3QzRPN2Y5Z25WT096QzlJ@150.95.24.86:443#🇯🇵 Япония
+vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?allowInsecure=1&fp=chrome&host=cdn.lovecrafty.link&path=/stream/updates/130cdea4/019dee35-0199-d528-7ad9-9f1203bcb9b0f&security=tls&sni=cdn.tracker.yandex.net&type=ws#🇩🇪 Германия 1
+vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?allowInsecure=1&fp=chrome&host=cdn.lovecrafty.link&path=/stream/updates/130cdea4/019dee35-0199-dd7e-7323-a62ad725bba07&security=tls&sni=cdn.tracker.yandex.net&type=ws#🇩🇪 Германия 2
+vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?allowInsecure=1&fp=chrome&host=cdn.lovecrafty.link&path=/stream/updates/b66b78d7/019dee35-0199-d98f-7135-8f251a76cca8c&security=tls&sni=cdn.tracker.yandex.net&type=ws#🇳🇱 Нидерланды 1
+vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?allowInsecure=1&fp=chrome&host=cdn.lovecrafty.link&path=/stream/updates/b66b78d7/019dee35-0199-d54b-75f2-923ccbf35c230&security=tls&sni=cdn.tracker.yandex.net&type=ws#🇳🇱 Нидерланды 2
+vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?allowInsecure=1&fp=chrome&host=cdn.lovecrafty.link&path=/stream/updates/de2fad11/019dee35-0199-d7f0-7589-bc1ad768a040f&security=tls&sni=cdn.tracker.yandex.net&type=ws#🇫🇮 Финляндия 1
+vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?allowInsecure=1&fp=chrome&host=cdn.lovecrafty.link&path=/stream/updates/de2fad11/019dee35-0199-de33-7950-be1a9ea4630bc&security=tls&sni=cdn.tracker.yandex.net&type=ws#🇫🇮 Финляндия 2
+vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?allowInsecure=1&fp=chrome&host=cdn.lovecrafty.link&path=/stream/updates/e2fb9ff9/019dee35-0199-d345-773e-ac34723707c32&security=tls&sni=cdn.tracker.yandex.net&type=ws#🇱🇹 Литва 1
+vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?allowInsecure=1&fp=chrome&host=cdn.lovecrafty.link&path=/stream/updates/e2fb9ff9/019dee35-0199-e92d-7526-8420fe39cbc30&security=tls&sni=cdn.tracker.yandex.net&type=ws#🇱🇹 Литва 2
+vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?allowInsecure=1&fp=chrome&host=cdn.lovecrafty.link&path=/stream/updates/2143b884/019dee35-0199-deb7-7ebf-a824550ed6c3c&security=tls&sni=cdn.tracker.yandex.net&type=ws#🇸🇪 Швеция 1
+vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?allowInsecure=1&fp=chrome&host=cdn.lovecrafty.link&path=/stream/updates/2143b884/019dee35-0199-e0a1-78f2-b619826570f87&security=tls&sni=cdn.tracker.yandex.net&type=ws#🇸🇪 Швеция 2
+vless://7fbeb76f-2fa1-4a5a-9f99-4dbfaafb4da2@205.172.56.16:443?flow=xtls-rprx-vision&fp=chrome&pbk=4v_4RSmE8ztHfQ4EV8Ym6J-6C8ACtYiznTHcdWJw6WA&security=reality&sid=aabbccdd&sni=www.google.com&type=tcp#🇺🇸 США 1
+vless://77280cb4-583d-4e7c-9863-f6d6360ae99d@74.119.194.234:443?flow=xtls-rprx-vision&fp=chrome&pbk=hEV8UAgt4wyparM-bujTBXw1yefc-5bh2S3we2ewwjk&security=reality&sid=4626821f22&sni=store.steampowered.com&spx=/&type=tcp#🇺🇸 США 2
 vless://fd2bfdd2-68eb-49b0-98ad-ed82f901edde@62.60.233.178:52000?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=4Fs4rORU_bK5Nwy9qvmVw3dAxS91bIG5cQYOmXl7zDA&sid=3d67b0666a5e09a0&sni=ozon.ru#🇹🇷 Турция
-ss://YWVzLTI1Ni1nY206N0dhUUlNNHE4NHNMbmhxUUo4bUxxYjBLYmREbUJXeEtQYVhhNTl0Rlh0Zw@165.22.111.31:8388#🇸🇬 Сингапур
-ss://YWVzLTI1Ni1nY206N2UxZGQ0YzU1YmY4NWRhNQ@103.136.150.207:40210#🇭🇰Гонконг
-ss://YWVzLTI1Ni1nY206N2UxZGQ0YzU1YmY4NWRhNQ@103.136.150.207:40210#🇭🇰 Гонконг [2]
 vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@ind8.keepsecured.net:8443?type=grpc&security=reality&encryption=none&pbk=J07yFEBPsic7-hLTS2KSxVqI7v4gpfkG6_a2cGKNVFk&sid=10f786a2491b2cd5&sni=cdn.kwork.com&mode=gun&serviceName=buysec.ru&authority=#🇮🇳 Индия
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@109.120.188.50:993?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=mAu8QDi3pbmMCFg9kKC-ZBIHdtnXeCuZt3VnAw6vlH4&sid=ad7dab462a323acb&sni=max.ru&alpn=http/1.1#🇷🇺 Россия (БС)
+vless://7fbeb76f-2fa1-4a5a-9f99-4dbfaafb4da2@151.241.216.78:443?flow=xtls-rprx-vision&fp=chrome&pbk=4v_4RSmE8ztHfQ4EV8Ym6J-6C8ACtYiznTHcdWJw6WA&security=reality&sid=aabbccdd&sni=www.google.com&type=tcp#🇪🇸 Испания
+vless://07fd97f4-8501-4d7a-8a11-935f58d1e7a9@45.12.111.151:443?flow=xtls-rprx-vision&fp=chrome&pbk=Z--Ieq3GtHx_Qtqj3NUyK5wY2foVBtlOkyzXqESeswU&security=reality&sid=0c80cc39&sni=store.steampowered.com&spx=/&type=tcp#🇨🇭 Швейцария
+hysteria2://hysteria2_fastlane_hjp4yzvbq:ALPxpNerbQ4pFmMSMxohucfCPnKfgYtJ@91.132.160.243:1935/?sni=de6.h.fastlanehosting.ru&insecure=1#🇬🇧 Великобритания
+vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?allowInsecure=1&fp=chrome&host=cdn.lovecrafty.link&path=/stream/updates/ac6a2c15/019dee35-0199-df30-7660-851a1858dd394&security=tls&sni=cdn.tracker.yandex.net&type=ws#🇷🇺 Россия 1
+vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?allowInsecure=1&fp=chrome&host=cdn.lovecrafty.link&path=/stream/updates/ac6a2c15/019dee35-0199-e463-7534-a41ca7e48d60b&security=tls&sni=cdn.tracker.yandex.net&type=ws#🇷🇺 Россия 2
+vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.181.41:52006?type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome&allowInsecure=1#🇷🇺 Белые Списки 1
+vless://75807638-6f19-07d0-ae08-38492ee85c88@212.41.8.216:52006?type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome&allowInsecure=1#🇷🇺 Белые Списки 2
