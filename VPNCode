@@ -1,20 +1,16 @@
 #profile-title: Забойщик VPN
 #profile-update-interval: 12
-#subscription-userinfo:expire=1779997200;total=536870912000; used=0
+#subscription-userinfo:expire=1780271999;total=107374182400; used=1024
 #url-web-page-url: https://t.me/zaboyshikvpn
 #announce: Поддержка: @alexandr_zaboyshik  #ЗаСвободныйИнтернет! [Проверяйте пинг перед подключением!]
 
-vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?allowInsecure=1&fp=chrome&host=cdn.lovecrafty.link&path=/stream/updates/130cdea4/019dee35-0199-d528-7ad9-9f1203bcb9b0f&security=tls&sni=cdn.tracker.yandex.net&type=ws#🇩🇪 Германия 1
-vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?allowInsecure=1&fp=chrome&host=cdn.lovecrafty.link&path=/stream/updates/130cdea4/019dee35-0199-dd7e-7323-a62ad725bba07&security=tls&sni=cdn.tracker.yandex.net&type=ws#🇩🇪 Германия 2
-vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?allowInsecure=1&fp=chrome&host=cdn.lovecrafty.link&path=/stream/updates/b66b78d7/019dee35-0199-d98f-7135-8f251a76cca8c&security=tls&sni=cdn.tracker.yandex.net&type=ws#🇳🇱 Нидерланды 1
-vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?allowInsecure=1&fp=chrome&host=cdn.lovecrafty.link&path=/stream/updates/b66b78d7/019dee35-0199-d54b-75f2-923ccbf35c230&security=tls&sni=cdn.tracker.yandex.net&type=ws#🇳🇱 Нидерланды 2
-vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?allowInsecure=1&fp=chrome&host=cdn.lovecrafty.link&path=/stream/updates/de2fad11/019dee35-0199-d7f0-7589-bc1ad768a040f&security=tls&sni=cdn.tracker.yandex.net&type=ws#🇫🇮 Финляндия 1
-vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?allowInsecure=1&fp=chrome&host=cdn.lovecrafty.link&path=/stream/updates/de2fad11/019dee35-0199-de33-7950-be1a9ea4630bc&security=tls&sni=cdn.tracker.yandex.net&type=ws#🇫🇮 Финляндия 2
-vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?allowInsecure=1&fp=chrome&host=cdn.lovecrafty.link&path=/stream/updates/e2fb9ff9/019dee35-0199-d345-773e-ac34723707c32&security=tls&sni=cdn.tracker.yandex.net&type=ws#🇱🇹 Литва 1
-vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?allowInsecure=1&fp=chrome&host=cdn.lovecrafty.link&path=/stream/updates/e2fb9ff9/019dee35-0199-e92d-7526-8420fe39cbc30&security=tls&sni=cdn.tracker.yandex.net&type=ws#🇱🇹 Литва 2
-vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?allowInsecure=1&fp=chrome&host=cdn.lovecrafty.link&path=/stream/updates/2143b884/019dee35-0199-deb7-7ebf-a824550ed6c3c&security=tls&sni=cdn.tracker.yandex.net&type=ws#🇸🇪 Швеция 1
-vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?allowInsecure=1&fp=chrome&host=cdn.lovecrafty.link&path=/stream/updates/2143b884/019dee35-0199-e0a1-78f2-b619826570f87&security=tls&sni=cdn.tracker.yandex.net&type=ws#🇸🇪 Швеция 2
-vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?allowInsecure=1&fp=chrome&host=cdn.lovecrafty.link&path=/stream/updates/ac6a2c15/019dee35-0199-df30-7660-851a1858dd394&security=tls&sni=cdn.tracker.yandex.net&type=ws#🇷🇺 Россия 1
-vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?allowInsecure=1&fp=chrome&host=cdn.lovecrafty.link&path=/stream/updates/ac6a2c15/019dee35-0199-e463-7534-a41ca7e48d60b&security=tls&sni=cdn.tracker.yandex.net&type=ws#🇷🇺 Россия 2
-vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443/?type=ws&host=cdn.lovecrafty.link&path=/stream/updates/130cdea4/019dee35-0199-dd7e-7323-a62ad725bba07&security=tls&sni=cdn.tracker.yandex.net&fp=chrome&allowInsecure=0#🇷🇺 Белые Списки 1
-vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?type=ws&host=cdn.lovecrafty.link&path=/stream/updates/130cdea4/019dee35-0199-e195-7c29-9b28c0e62abc8&security=tls&sni=cdn.tracker.yandex.net&fp=chrome&allowInsecure=0%23%F0%9F%87%AA%F0%9F%87%BA%20%D0%91%D0%B5%D0%BB%D1%8B%D0%B5%20%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%20%232%0A%0A#🇷🇺 Белые списки 2
+vless://06b65903-406d-4a41-8463-6fd5c0ee7798@43.169.18.179:443?encryption=none&type=ws&sni=sni.skylee4.cloudns.ch&security=tls&fp=chrome&host=sni.skylee4.cloudns.ch&path=/proxyip=ProxyIP.CMLiussss.net#Auto [САМЫЙ СТАБИЛЬНЫЙ]
+vless://06b65903-406d-4a41-8463-6fd5c0ee7798@219.76.13.183:443?host=sn1.skylee5.cloudns.ch&path=%2Ffp%3Dchromefp%3Dchrome&security=tls&sni=sn1.skylee5.cloudns.ch&type=ws#🇭🇰 Гонконг 1
+vless://06b65903-406d-4a41-8463-6fd5c0ee7798@219.76.13.183:443?type=ws&security=tls&encryption=none&fp=chrome&sni=sn1.skylee5.cloudns.ch&host=sn1.skylee5.cloudns.ch#🇭🇰 Гонконг 2
+vless://06b65903-406d-4a41-8463-6fd5c0ee7798@219.76.13.183:443?type=ws&security=tls&encryption=none&sni=sn1.skylee5.cloudns.ch&host=sn1.skylee5.cloudns.ch#🇭🇰 Гонконг 3
+vless://06b65903-406d-4a41-8463-6fd5c0ee7798@219.76.13.183:443?sni=sn1.skylee5.cloudns.ch&type=ws&host=sn1.skylee5.cloudns.ch&path=/fp=chrome&security=tls#🇭🇰 Гонконг 4
+vless://0c9c3d36-c93c-4d1b-bdff-8038c3ed78a2@fl-7-direct.djarbnet.ru:443?path=%2Fgetupdates&security=tls&encryption=none&host=fl-7-direct.djarbnet.ru&type=ws&sni=fl-7-direct.djarbnet.ru#🇫🇮 Финляндия
+vless://06b65903-406d-4a41-8463-6fd5c0ee7798@154.17.22.207:443?encryption=none&security=tls&sni=sn1.skylee5.cloudns.ch&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=sn1.skylee5.cloudns.ch&path=%2F#🇺🇸 США
+vless://7eb99461-851a-419d-aafd-b857e7b32b83@77.110.121.202:23164?type=tcp&headerType=none&security=reality&encryption=none&sni=teamdocs.su&fp=chrome&pbk=XoIxfrtYaItQL-X_zvZqTcCHBF3_LhIiptW9ph3Rgjs&sid=62&spx=%2F#🇸🇪 Швеция
+vless://91a3f712-c4e0-42a0-9475-bdd551a06e73@45.88.104.158:443?type=xhttp&headerType=none&security=reality&encryption=none&sni=maps.apple.com&fp=random&pbk=fS59W37_i8457GqkbB9_kdCfLCtWbl14qmVRnm2ty2I&sid=2da4299da566b7&path=%2Fapi%2Finternal%2Fd8f4e2a91c6b&host=maps.apple.com#🇳🇱 Нидерланды
+vless://cbc27e56-38a1-4b0d-bce3-f9e7dcb807a4@89.208.209.11:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=cdp.x5.ru&pbk=DK98HQGIBGOFbAqKggMXduwYNjlKfOBiARKfO8wEeXk&sid=0fb689ad101948ba#🇷🇺 Россия
